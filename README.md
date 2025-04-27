@@ -1,2 +1,3 @@
 # repeater-telegram-bot
-# repeater-telegram-bot
+
+setup needed data in config.toml!
